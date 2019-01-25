@@ -1,6 +1,9 @@
 # GeometricComputing
-Final Project on the course CSE 554 Geometric Computing for Biomedicine at Washington University In St. Louis
+Final Project on Drosophila bifurca Sperm Cell Length Measurement
+Course: CSE 554 Geometric Computing for Biomedicine
+Collaborator: Dohoon Kim
 Instructor: Tao Ju Ph.D.
+Institution: Washington University In St. Louis
 
 # How to use the Sperm Cell Length Measurement GUI
 
