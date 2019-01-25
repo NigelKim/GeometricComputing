@@ -1,6 +1,6 @@
 # Geometric Computing
 Final Project on Drosophila bifurca Sperm Cell Length Measurement\
-Language: Python\
+Language: *Python*\
 Course: CSE 554 Geometric Computing for Biomedicine\
 Collaborator: Dohoon Kim\
 Instructor: Tao Ju Ph.D.\
