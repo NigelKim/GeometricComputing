@@ -1,4 +1,4 @@
-# GeometricComputing
+# Geometric Computing
 Final Project on Drosophila bifurca Sperm Cell Length Measurement
 Course: CSE 554 Geometric Computing for Biomedicine
 Collaborator: Dohoon Kim
